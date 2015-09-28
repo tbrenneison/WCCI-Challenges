@@ -19,7 +19,7 @@ namespace madLibsGenerator_withInputFIle
         }//end of main method 
 
 
-        static void recordPhrase(string madLib) //records every phrase in a text file (will overwrite the file each time the program runs, but saves each generated phrase)
+        static void recordPhrase(string madLib) //records every phrase in a text file 
         {
             StreamWriter writer = new StreamWriter("recordphrases.txt", true);
             using (writer)
