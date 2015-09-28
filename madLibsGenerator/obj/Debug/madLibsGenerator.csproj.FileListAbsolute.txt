@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\madLibsGenerator\bin\Debug\madLibsGenerator.exe.config
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\madLibsGenerator\obj\Debug\madLibsGenerator.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\madLibsGenerator\bin\Debug\madLibsGenerator.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\madLibsGenerator\bin\Debug\madLibsGenerator.pdb
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\madLibsGenerator\obj\Debug\madLibsGenerator.exe
+C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\madLibsGenerator\obj\Debug\madLibsGenerator.pdb
