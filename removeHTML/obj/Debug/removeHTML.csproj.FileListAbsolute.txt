@@ -1,6 +1,0 @@
-C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\removeHTML\bin\Debug\removeHTML.exe.config
-C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\removeHTML\bin\Debug\removeHTML.exe
-C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\removeHTML\bin\Debug\removeHTML.pdb
-C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\removeHTML\obj\Debug\removeHTML.csprojResolveAssemblyReference.cache
-C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\removeHTML\obj\Debug\removeHTML.exe
-C:\Users\WeCanCodeIT\Desktop\WCCI Learn Practices\removeHTML\obj\Debug\removeHTML.pdb

@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\stackImplementation\bin\Debug\stackImplementation.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\stackImplementation\bin\Debug\stackImplementation.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\stackImplementation\bin\Debug\stackImplementation.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\stackImplementation\obj\Debug\stackImplementation.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\stackImplementation\obj\Debug\stackImplementation.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\stackImplementation\obj\Debug\stackImplementation.pdb

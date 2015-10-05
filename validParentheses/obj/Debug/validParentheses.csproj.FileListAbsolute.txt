@@ -1,0 +1,6 @@
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\validParentheses\bin\Debug\validParentheses.exe.config
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\validParentheses\bin\Debug\validParentheses.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\validParentheses\bin\Debug\validParentheses.pdb
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\validParentheses\obj\Debug\validParentheses.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\validParentheses\obj\Debug\validParentheses.exe
+C:\Users\WeCanCodeIT\Desktop\CodeEval challenges\validParentheses\obj\Debug\validParentheses.pdb
